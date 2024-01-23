@@ -1,0 +1,43 @@
+body {
+  margin: 0;
+  padding: 20px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 16px;
+  background-color: #fbfbfb;
+}
+
+#root {
+  max-width: 1024px;
+}
+
+.custom-toggler__item {
+  padding: 10px;
+  font: inherit;
+  background: none;
+  border: none;
+}
+
+.custom-toggler__item--active {
+  font-weight: 700;
+}
+
+.custom-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.custom-table__data {
+  padding: 10px;
+  border: 1px solid #000000;
+}
+
+.custom-tiles {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 10px;
+}
+
+.custom-tiles__item {
+  padding: 5px;
+  border: 1px solid #000000;
+}

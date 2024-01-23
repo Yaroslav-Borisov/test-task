@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Иванов Иван Иванович",
+    "email": "ivanov@ivan.ivan",
+    "phone": "+7000000000"
+  },
+  {
+    "name": "Петров Пётр Петрович",
+    "email": "petrov@petr.petr",
+    "phone": "+7000000001"
+  },
+  {
+    "name": "Сергеев Сергей Сергеевич",
+    "email": "sergeev@sergey.sergey",
+    "phone": "+7000000002"
+  },
+  {
+    "name": "Борисов Борис Борисович",
+    "email": "borisov@yar.yar",
+    "phone": "+7000000003"
+  },
+  {
+    "name": "Алексеев Алексей Алексеевич",
+    "email": "alexeev@alex.alex",
+    "phone": "+7000000004"
+  }
+]
